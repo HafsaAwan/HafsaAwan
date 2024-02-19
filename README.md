@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Hafsa Awan</h1>
-<h3 align="center">A passionate Full-stack web developer. I am polishing my skills as well as exploring Blockchain world!</h3>
+<h3 align="center">A Python programmer, AI enthusiast, and Full-stack web developer. I am polishing my skills as well as exploring the Blockchain world! I am also learning a lot on Generative AI!</h3>
 
-- 🌱 I’m currently learning **TypeScript, Solidity, Web3, NFT Development**
+- 🌱 I’m well defined in two words: "Passionate Learner"
 
 - 💬 Ask me about **HTML/CSS, JavaScript, React, Python, or any other stuff. I will be happy to help!**
 
