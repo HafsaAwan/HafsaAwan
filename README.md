@@ -1,19 +1,165 @@
+# Hi, I'm Hafsa Awan 👋
 
-<h1 align="center">Hi 👋, I'm Hafsa Awan</h1>
-<h3 align="center">A Python programmer, AI enthusiast, and Full-stack web developer. I am polishing my skills and also learning a lot on Generative AI!</h3>
+### AI Enthusiast | Full-Stack Developer | MSc Computer Science with Data Science
 
-- 🌱 I’m well defined in two words: "Passionate Learner"
+I build intelligent systems where **technology meets human empathy** — crafting AI-powered applications that solve real problems and empower people.
 
-- 💬 Ask me about **HTML/CSS, JavaScript, React, Python, or any other stuff. I will be happy to help!**
+📍 Based in **Scotland, UK** | 🎯 Open to **all opportunities**  
+💼 Seeking roles in **AI/ML Engineering** or **Full-Stack Development with AI focus**
 
-- 📫 How to reach me **hafsaawan15@GMAIL.COM**
+---
 
-- ⚡ Fun fact **I actually, really enjoy learning!**
+## 🚀 What I'm Building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hafsa-awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafsa-awan" height="30" width="40" /></a>
-</p>
+I'm passionate about creating **production-ready AI applications** that blend technical excellence with thoughtful design:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🤖 **AI-powered platforms** using LangChain, OpenAI API, and vector databases
+- 🌐 **Full-stack web applications** with Next.js, React, TypeScript, and Tailwind CSS
+- 📊 **Data-driven solutions** leveraging Python, SQL, and modern analytics tools
+- 🎨 **Human-centered interfaces** that make complex technology accessible
+
+---
+
+## 💡 Featured Projects
+
+### 🔹 [AI Did This](https://howaididthis.com)
+A complete AI ecosystem empowering creators and learners to harness AI effectively.
+- **Full-stack platform** with prompt database, blog system (The Spark Journal), and user authentication
+- Built with **Next.js, Supabase, Sanity CMS, and Tailwind CSS**
+- Features glassmorphism UI, dynamic filtering, and real-time search
+- [View Live](https://howaididthis.com)
+
+### 🔹 Interactive Portfolio
+My personal portfolio featuring **ShadowSelf** — an AI-powered chatbot that acts as my digital twin.
+- **AI chatbot integration** using OpenAI API for conversational portfolio exploration
+- Built with **Next.js 14, TypeScript, and Framer Motion**
+- Futuristic glassmorphism design with advanced animations
+- Demonstrates prompt engineering and conversational AI skills
+
+### 🔹 [Document Intelligence System](https://document-intelligence-ten.vercel.app/)
+AI-powered document analysis tool using RAG (Retrieval Augmented Generation).
+- Implements **vector embeddings** with ChromaDB
+- Built with **LangChain, FastAPI, and OpenAI API**
+- Enables natural language Q&A over uploaded documents
+
+### 🔹 Web Development Portfolio
+- **20+ responsive websites** built with modern web technologies
+- **8+ WordPress sites** optimized for SEO and performance
+- Focus on accessibility, user experience, and clean code
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
+
+**Skills:** Prompt Engineering • RAG Systems • Vector Databases (ChromaDB) • Generative AI • ChatGPT Integration
+
+### Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎓 Education & Certifications
+
+**MSc Computer Science with Data Science**  
+*University of Wolverhampton, UK* | Sep 2024 - Present
+
+**BSc Electrical and Computer Engineering**  
+*University of Engineering and Technology (UET), Pakistan* | 2006 - 2010
+
+### 🏆 Key Certifications (2023-2024)
+
+**AI & Data Science:**
+- Google AI Essentials (Google, 2024)
+- ChatGPT Advanced Data Analysis (Vanderbilt University, 2024)
+- Introduction to Artificial Intelligence with Honors (IBM, 2024)
+- Prompt Engineering Specialization (Vanderbilt University, 2024)
+- Trustworthy Generative AI (Vanderbilt University, 2024)
+
+**Professional Development:**
+- Professional Skills for the Workplace Specialization (UC Davis, 2024)
+- Emotional and Social Intelligence (UC Davis, 2023)
+- The Growth Mindset (UC Davis, 2024)
+
+[View all certifications →](https://linkedin.com/in/hafsa-awan)
+
+---
+
+## 💼 What I'm Looking For
+
+I'm actively seeking **UK visa-sponsored roles** in:
+
+✅ **AI/ML Engineering** — Building intelligent systems with LLMs, RAG, and conversational AI  
+✅ **Full-Stack Development** — Creating production-ready web applications with modern stacks  
+✅ **AI Product Development** — Bridging technical implementation with user-centered design
+
+**What I bring:**
+- 🧠 Strong foundation in AI/ML with hands-on project experience
+- 💻 Full-stack development expertise (Next.js, React, Python, TypeScript)
+- 🚀 Track record of shipping complete, deployed applications
+- 🎯 Growth mindset and passion for continuous learning
+- 🤝 Clear communication and collaborative approach
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced RAG architectures and vector database optimization
+- LangChain agents and multi-agent systems
+- Fine-tuning LLMs for specialized applications
+- MLOps and AI system deployment at scale
+
+---
+
+## 📫 Let's Connect
+
+I'd love to discuss how I can contribute to your team!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafsa-awan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafsi.gb@gmail.com)
+
+---
+
+## 💬 Fun Facts
+
+- 🎯 I actually, really enjoy learning! Every new framework is a puzzle I'm excited to solve.
+- ☕ Debugging AI is like parenting — they do the opposite of what you said, not what you meant.
+- 🌍 Based in Scotland but building for a global audience.
+- 🤖 I built an AI version of myself (ShadowSelf) that lives on my portfolio — it's like having a digital twin that never sleeps!
+
+---
+
+<div align="center">
+
+### ⚡ "Code is not just instruction — it's expression. Design is not surface — it's empathy."
+
+*Building conscious systems where technology and humanity coexist.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=HafsaAwan&color=brightgreen&style=flat-square)
+
+</div>
