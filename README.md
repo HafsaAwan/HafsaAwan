@@ -35,6 +35,7 @@ My personal portfolio featuring **ShadowSelf** — an AI-powered chatbot that ac
 - Built with **Next.js 14, TypeScript, and Framer Motion**
 - Futuristic glassmorphism design with advanced animations
 - Demonstrates prompt engineering and conversational AI skills
+- - [View Live](https://hafsa-awan-portfolio.vercel.app/)
 
 ### 🔹 [Document Intelligence System](https://document-intelligence-ten.vercel.app/)
 AI-powered document analysis tool using RAG (Retrieval Augmented Generation).
@@ -139,7 +140,7 @@ I'm actively seeking **UK visa-sponsored roles** in:
 
 I'd love to discuss how I can contribute to your team!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hafsa-awan-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafsa-awan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafsi.gb@gmail.com)
 
